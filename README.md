@@ -5,7 +5,7 @@ I'm an ungraduated college student, majoring in Internet of Things Engineering. 
 
 
 <h3>Learn more about me</h3>
-<p><a href="https://blog.ydlan.cn" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white" /></a> <a href="https://github.com/ydlan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<p><a href="https://blog.ydlan.cn" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white" /></a> <a href="https://github.com/lanyandong" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 </p>
 
 <!--
